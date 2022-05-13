@@ -1,5 +1,5 @@
-# <Refactoring-Horiseon-Code-to-follow-Accessibility-Standards>
-
+# Refactoring Horiseon Code to follow Accesibility Standards
+  
 ## Horiseon, a marketing agency, was seeking a codebase that follows accessibility standards to optimize their site for search engines. In specific, they were looking for 5 criteria: 
   1. Use of semantic HTML elements
   2. Elements following a logical structure independent of styling and positioning
